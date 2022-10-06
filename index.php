@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Desain Grafis by Rijalul Arif</title>
+	<meta name="author" content="Rijalul Arif">
 	<!-- menghubungkan dengan file css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
