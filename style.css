@@ -60,6 +60,7 @@
 .hal1{
 	text-align: left;
 }
+
 .hal1 table{
 	width: 459px;
 	margin-top: 170px;
@@ -69,6 +70,7 @@
 .hal2{
 	text-align: left;
 }
+
 .hal2 table{
 	margin-top: 50px;
 	table-layout: fixed;
@@ -77,6 +79,7 @@
 .hal3{
 	text-align: left;
 }
+
 .hal3 table{
 	width: 459px;
 	margin-top: 50px;
